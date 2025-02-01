@@ -60,7 +60,5 @@ Once running, the ESP32 will:
 ## License
 This project is open-source under the **MIT License**.
 
-## Contact
-For questions or contributions, reach out at **your-email@example.com**.
 
 
